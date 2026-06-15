@@ -5,4 +5,4 @@
 #AWS BACKEND LAUNCED ON AWS EC2 Instance
 @http://54.145.20.191:3000
 
-#BATABASE launched on AWS by installing MySql ON AWS Console
+#DATABASE launched on AWS by installing MySql ON AWS Console
