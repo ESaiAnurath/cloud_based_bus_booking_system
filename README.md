@@ -9,7 +9,7 @@
 #DATABASE launched on AWS by installing MySql ON AWS Console
 
 #OUTPUT SCREENS 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a03445ce-4f94-40ed-8a9d-ab5966c9db02" />
+<img width="500" height="667" alt="image" src="https://github.com/user-attachments/assets/a03445ce-4f94-40ed-8a9d-ab5966c9db02" />
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/492dd975-decc-4d4b-a332-40f6e7cc5360" />
 
